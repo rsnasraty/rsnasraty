@@ -1,4 +1,7 @@
-### Hi there 👋
+- 😻 Nice to meet you! I'm Roxanne 
+- 🎓 I'm a Nashville Software School Graduate (Cohort 40)
+- 💻 My Tech Stack: Python/Django; Javascript; React.js; HTML;CSS3; SQL fundamentals.
+
 
 <!--
 **rsnasraty/rsnasraty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
