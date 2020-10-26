@@ -1,4 +1,4 @@
-- 😻 Nice to meet you! I'm Roxanne 
+- 😻 Nice to meet you! I'm Roxanne and I'm a Software Developer.
 - 🎓 I'm a Nashville Software School Graduate (Cohort 40)
 - 💻 My Tech Stack: Python/Django; Javascript; React.js; HTML;CSS3; SQL fundamentals.
 
