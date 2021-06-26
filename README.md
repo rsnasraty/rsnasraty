@@ -1,6 +1,6 @@
-- 😻 Nice to meet you! I'm Roxanne and I work at HCA as an Access Coordinator. 
+- 👩‍💻 Nice to meet you! I'm Roxanne and I work at HCA as an Access Coordinator. 
 - 🎓 I received my software development certificate from Nashville Software School (Cohort 40).
-- 🎓 I have a Bachelors in Psychology from Vanderbilt University (Graduated in 2016).
+- 👩‍🎓 I have a Bachelors in Psychology from Vanderbilt University (Graduated in 2016).
 - 💻 My Tech Stack: Vanilla Javascript; Python; Django; React.js; HTML; CSS3; SQL fundamentals.
 - 📫 Please feel free to connect with me on [LinkedIn](www.linkedin.com/in/rsnasraty) 
 
