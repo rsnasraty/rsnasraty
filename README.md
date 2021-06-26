@@ -1,7 +1,8 @@
-- 😻 Nice to meet you! I'm Roxanne and I'm a Software Developer.
-- 🎓 I'm a Nashville Software School Graduate (Cohort 40)
-- 💻 My Tech Stack: Python/Django; Javascript; React.js; HTML;CSS3; SQL fundamentals.
-
+- 😻 Nice to meet you! I'm Roxanne and I work at HCA as an Access Coordinator. 
+- 🎓 I received my software development certificate from Nashville Software School (Cohort 40).
+- 🎓 I have a Bachelors in Psychology from Vanderbilt University (Graduated in 2016).
+- 💻 My Tech Stack: Vanilla Javascript; Python; Django; React.js; HTML; CSS3; SQL fundamentals.
+- 📫 Please feel free to connect with me on [LinkedIn] www.linkedin.com/in/rsnasraty
 
 <!--
 **rsnasraty/rsnasraty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
